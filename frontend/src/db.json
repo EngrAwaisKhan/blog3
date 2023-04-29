@@ -1,0 +1,43 @@
+[
+  {
+    "_id": 1,
+    "image": "images/react.jpg",
+    "title": "React Context",
+    "content": "react context is used in reactjs for holding data.",
+    "author": "johns smith",
+    "date": "April 17, 2023"
+  },
+
+  {
+    "_id": 2,
+    "image": "images/mern.png",
+    "title": "React Context",
+    "content": "react context is used in reactjs for holding data.",
+    "author": "johns smith",
+    "date": "April 17, 2023"
+  },
+  {
+    "_id": 3,
+    "image": "images/mern.png",
+    "title": "React Context",
+    "content": "react context is used in reactjs for holding data.",
+    "author": "johns smith",
+    "date": "April 17, 2023"
+  },
+  {
+    "_id": 4,
+    "image": "images/web.jpg",
+    "title": "React Context",
+    "content": "react context is used in reactjs for holding data.",
+    "author": "johns smith",
+    "date": "April 17, 2023"
+  },
+  {
+    "_id": 5,
+    "image": "images/mern.png",
+    "title": "React Context",
+    "content": "react context is used in reactjs for holding data.",
+    "author": "johns smith",
+    "date": "April 17, 2023"
+  }
+]
